@@ -80,8 +80,7 @@ Sample Superstore Dataset, commonly used for analytics and dashboarding practice
 
 **Radha Sinha**  
 BCA Final Year | Aspiring Data Analyst & Full Stack Developer  
-[LinkedIn Profile](www.linkedin.com/in/radha-sinha)
-
+[LinkedIn Profile](https://www.linkedin.com/in/radha-sinha-350166329)
 ---
 
 ## 📬 Feedback or Contribution
