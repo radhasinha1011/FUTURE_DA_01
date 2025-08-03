@@ -47,34 +47,11 @@ This project is a Power BI interactive dashboard built using the Superstore data
 
 ## 📁 Project Files
 
-- `Superstore Dashboard.pbix` — Power BI project file
-- `superstore.xlsx` — Dataset used
+- `salesreport.pbix` — Power BI project file
+- `SuperStore_Sales_Dataset.csv.xlsx` — Dataset used
 - `README.md` — Project overview
 
----
-
-## 🚀 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/superstore-dashboard.git
-   ```
-2. Open `Superstore Dashboard.pbix` in Power BI Desktop
-3. Explore the visuals or modify as per your needs
-
----
-
-## 🖼️ Screenshots
-
-_Add screenshots of the dashboard pages here for better presentation._
-
----
-
-## 📚 Dataset Source
-
-Sample Superstore Dataset, commonly used for analytics and dashboarding practice (available through Kaggle or Tableau).
-
----
+------
 
 ## 🧑‍💻 Author
 
